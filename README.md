@@ -13,7 +13,7 @@ This project deonstrates core devops principles such as:
 - Environment Management
 
 ### Project structure
-weather-dashboard/
+weather_dashboard_demo/
 + src/
 _ __init__.py
 * weather_dashboard.py
