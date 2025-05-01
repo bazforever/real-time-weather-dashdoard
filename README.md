@@ -4,22 +4,22 @@ I created this project as part of the "30daysDevopschallenge", with the goal of 
 
 ## Project overview
 This project deonstrates core devops principles such as:
-*External API Integration (OpenWeather API)
-*Cloud Storage (AWS S3)
-*Infrastructure as Code
-*Version Control (Git)
-*Python Development
-*Error Handling
-*Environment Management
+- External API Integration (OpenWeather API)
++ Cloud Storage (AWS S3)
+* Infrastructure as Code
+- Version Control (Git)⌛️
++ Python Development
+* Error Handling
+- Environment Management
 
 ### Project structure
 weather-dashboard/
-  src/
-    __init__.py
-    weather_dashboard.py
-  tests/
-  data/
-  .env
-  .gitignore
-  requirements.txt
++ src/
+_ __init__.py
+* weather_dashboard.py
++ tests/
+- data/
+* .env
+- .gitignore
++ requirements.txt
  
